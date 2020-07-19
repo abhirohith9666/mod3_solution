@@ -1,0 +1,13 @@
+ .box
+{ 
+    width:100%;
+	height:1100px;
+	padding:40px;
+	margin:10px;
+	background-color:#DEB887;
+}
+.linkdecor{
+border-bottom:1px solid grey;
+}
+.linkdecor:hover{
+background-color:Gray;}
